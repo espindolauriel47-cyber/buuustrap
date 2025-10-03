@@ -1,0 +1,18 @@
+h2 {
+    color: rgb(44, 151, 151);
+}
+ h1 {
+      background-color: rgb(0, 0, 0); /* Puedes usar un nombre de color, un código HEX o RGB */
+    }
+h1 {
+  color: rgb(253, 253, 253);
+}
+footer { background-color: rgb(38, 126, 141); /* Puedes usar un nombre de color, un código HEX o RGB */
+    
+
+
+}
+
+html, body { margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; max-width: 100%; overflow-x: hidden; }
+
+
